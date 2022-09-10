@@ -1,0 +1,45 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Cerveja IPA",
+            "price": 15.00,
+            "Quant": 10
+        }, {
+            "id": 2,
+            "name": "Cerveja LAGER",
+            "price": 10.00,
+            "quant": 10
+        }, {
+            "id": 3,
+            "name": "Porção Carne",
+            "price": 20.00,
+            "quant": 10
+        }, {
+            "id": 4,
+            "name": "Porção Frango",
+            "price": 15.00,
+            "quant": 10
+        }
+    ],
+
+    "clients": [
+        {
+            "account": 1234,
+            "name": "Carlos Alberto"
+        }, {
+            "account": 4567,
+            "name": "Suzy Hiroshi"
+        }
+    ],
+
+    "accounts": [
+        {
+            "id": 1234,
+            "consumed": [1, 1, 3]
+        }, {
+            "id": 4567,
+            "consumed": [2, 2, 2, 4]
+        }
+    ]
+}
