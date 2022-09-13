@@ -1,5 +1,5 @@
 # AngularProjects
-## Projetos no estudo de Angular e derivados
+## Projetos de estudo e desenvolvimento em Angular
 Curso de Angular da Cod3r disponível em: https://www.cod3r.com.br/courses/angular-9-essencial
 
 ### Rodar o Backend
