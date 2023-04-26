@@ -27,6 +27,20 @@ Curso de Angular da Cod3r disponível em: https://www.cod3r.com.br/courses/angul
 <strong>Onde:</strong> Qualquer lugar </br>
 <strong>Para que:</strong> Começar um projeto usando angular </br>
 
+### EndPoints
+<strong>O que:</strong> Endpoints da API</br>
+<strong>Onde:</strong> Navegador </br>
+<strong>Para que:</strong> Modificar/Visualizar os dados salvos</br>
+
+<strong>Exemplos:</strong>
+Trazer todos os produtos:
+http://localhost:3001/products
+
+Trazer um produto específico:
+http://localhost:3001/products/1
+
+Outras requisições também são possíveis via Insomnia
+
 ### Modelo
 <strong>O que:</strong></br>
 <strong>Onde:</strong></br>
